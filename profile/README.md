@@ -384,5 +384,5 @@ This is an **exploratory project**, feel free to **experiment**, suggest improve
 This project is developed and maintained by Aron J. Vaupel.
 
 📧 Email: vaupelaron@gmail.com
-🔗 [GitHub](github.com/aronvaupel) 
+🔗 [GitHub](https://github.com/aronvaupel) 
 💼 [LinkedIn](https://linkedin.com/in/aron-joachim-vaupel-445749222)
