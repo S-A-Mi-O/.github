@@ -1,5 +1,3 @@
-
-
 # **SCHEMA-AGNOSTIC MICROSERVICES ORCHESTRATOR (S.A.Mi.O)**
 
 ## **Introduction**
